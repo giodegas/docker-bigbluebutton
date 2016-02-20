@@ -1,6 +1,6 @@
 # docker-bigbluebutton
 
-Unofficial BigBlueButton 0.81 docker image. This repository contains the Dockerfile and all other files needed to build the docker image. 
+Unofficial BigBlueButton 0.81 docker image. This repository contains the Dockerfile and all other files needed to build the docker image. Testing on docker cloud...
 
 More info about BigBlueButton at: http://bigbluebutton.org/
 
